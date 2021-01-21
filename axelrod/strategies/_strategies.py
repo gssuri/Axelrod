@@ -22,6 +22,7 @@ from qlearner import *
 from rand import *
 from retaliate import *
 from titfortat import *
+from Gursahib import *
 
 basic_strategies = [
     Alternator,
