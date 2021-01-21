@@ -30,6 +30,7 @@ basic_strategies = [
     Defector,
     Random,
     TitForTat,
+    Gursahib,
 ]
 
 ordinary_strategies = [
